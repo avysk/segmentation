@@ -25,6 +25,7 @@ pytest-cov = "^6.1.1"
 pytest-socket = "^0.7.0"
 pytest-xdist = "^3.7.0"
 ruff = "^0.11.13"
+jupyterlab = "^4.4.3"
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
