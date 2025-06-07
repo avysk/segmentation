@@ -1,3 +1,2 @@
-__pycache__/
-/htmlcov/
-/.coverage
+.*.sw[p-z]
+.ipynb_checkpoints/
